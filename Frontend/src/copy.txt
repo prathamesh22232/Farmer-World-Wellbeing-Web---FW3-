@@ -1,0 +1,33 @@
+const cards = [
+    {
+      title: "Soil Testing",
+      desc: "Book an appointment for soil health check.",
+      link: "/soil-testing",
+      imgUrl:
+        "https://thumbs.dreamstime.com/b/farmer-s-hands-testing-soil-quality-test-tube-agriculture-soil-analysis-farming-grow-farmer-s-hands-testing-soil-quality-331251482.jpg",
+    },
+    {
+      title: "Government Assistance",
+      desc: "Find schemes and subsidies available for you.",
+      link: "/govt-assistance",
+     imgUrl : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL6rjTrs8thQCPn9a9AeP1RHbpRq-W0hOGA&s"
+    },
+    {
+      title: "Market Committee",
+      desc: "Get updates on crop prices and trends.",
+      link: "/market-committee",
+      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRviynzsuZr2kCkzbitB7rFuFShaYEcRm2v4Q&s",
+    },
+    {
+      title: "Deal Committee",
+      desc: "Connect with trusted buyers and sellers.",
+      link: "/deal-committee",
+      imgUrl: null,
+    },
+    {
+      title: "Tech Support",
+      desc: "Get help with tools and technology.",
+      link: "/tech-support",
+      imgUrl: null,
+    },
+  ];
